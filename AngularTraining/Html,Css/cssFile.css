@@ -33,3 +33,30 @@
   .bgColor{
     background-color: antiquewhite;
   }
+
+  .heading{
+    font-family: Georgia, serif;
+    color: blue;
+    background-color: lightgrey;
+    
+    letter-spacing: 14px;
+    white-space: 2em;
+    text-align: center
+  }
+  .subHeading{
+    font-family: Georgia, serif;
+    color: darkred;
+    letter-spacing: 7px;
+    white-space: 2em;
+   
+  }
+  .font{
+    font-weight: bold;
+    font-style: italic;
+  }
+  .marginTop{
+    margin-top: 3%;
+  }
+  .pageBorder{
+    border: 2px solid;
+  }
